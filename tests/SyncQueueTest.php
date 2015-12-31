@@ -22,4 +22,3 @@ class SyncQueueTest extends \PHPUnit_Framework_TestCase
         $sync->push('Foo', array('foo' => 'foobar'));
     }
 }
- 

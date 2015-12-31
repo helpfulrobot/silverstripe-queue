@@ -142,4 +142,3 @@ class WorkerTest extends \PHPUnit_Framework_TestCase
         $worker->process('connection', $job, 0, 5);
     }
 }
- 

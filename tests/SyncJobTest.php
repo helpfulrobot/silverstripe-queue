@@ -42,6 +42,4 @@ class SyncJobTest extends \PHPUnit_Framework_TestCase
 
         $job->run();
     }
-
 }
- 

@@ -79,4 +79,3 @@ class QueueManagerTest extends \PHPUnit_Framework_TestCase
         $this->assertTrue($queue === $manager->connection('foo'));
     }
 }
- 

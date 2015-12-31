@@ -55,4 +55,4 @@ class BeanstalkdQueueTest extends TestCase
 
         $this->assertInstanceOf('StudioBonito\SilverStripe\Queue\Jobs\BeanstalkdJob', $result);
     }
-} 
+}

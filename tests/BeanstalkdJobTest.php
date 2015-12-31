@@ -59,4 +59,3 @@ class BeanstalkdJobTest extends \PHPUnit_Framework_TestCase
         );
     }
 }
- 
